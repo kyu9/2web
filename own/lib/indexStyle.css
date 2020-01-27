@@ -1,0 +1,28 @@
+#Dbutton{
+  background-color: red;
+  font-size: 20px;
+  color: white;
+  margin-left:28px;
+  margin-top:20px;
+  height:40px;
+  width:100px;
+}
+#button1{
+  background-color: lightyellow;
+  height:30px;
+  weight:50px;
+}
+h4{
+  margin-right: 0;
+  margin-left: 0;
+  border-top:7px solid red;
+}
+#showD{
+  margin-top:10px;
+  margin-left: 10px;
+  font-size: 25px;
+}
+#showT{
+  font-size: 30px;
+  margin-bottom:0;
+}
